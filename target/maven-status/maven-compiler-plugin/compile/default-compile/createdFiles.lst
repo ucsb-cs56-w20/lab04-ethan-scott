@@ -1,0 +1,5 @@
+edu/ucsb/cs56/ratcalc/formbeans/RatCalcForm.class
+edu/ucsb/cs56/ratcalc/controllers/HomeController.class
+edu/ucsb/cs56/ratcalc/controllers/OperationsController.class
+edu/ucsb/cs56/ratcalc/Application.class
+edu/ucsb/cs56/ratcalc/model/Rational.class
